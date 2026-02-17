@@ -1,4 +1,4 @@
-# Digital Clock - Java Time Tracker
+# Digital Clock
 
 A Java application developed to simulate a digital clock, managing time increments and formatting using custom logic.
 
